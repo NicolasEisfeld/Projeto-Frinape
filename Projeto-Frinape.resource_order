@@ -1,0 +1,22 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Anotações","order":10,"path":"folders/Anotações.yy",},
+    {"name":"Caminhos","order":3,"path":"folders/Caminhos.yy",},
+    {"name":"Cenas","order":7,"path":"folders/Cenas.yy",},
+    {"name":"Conjuntos de tiles","order":1,"path":"folders/Conjuntos de tiles.yy",},
+    {"name":"Curvas da animação","order":9,"path":"folders/Curvas da animação.yy",},
+    {"name":"Extensões","order":11,"path":"folders/Extensões.yy",},
+    {"name":"Fontes","order":6,"path":"folders/Fontes.yy",},
+    {"name":"Linhas do tempo","order":13,"path":"folders/Linhas do tempo.yy",},
+    {"name":"Objetos","order":14,"path":"folders/Objetos.yy",},
+    {"name":"Particle Systems","order":12,"path":"folders/Particle Systems.yy",},
+    {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
+    {"name":"Sequências","order":8,"path":"folders/Sequências.yy",},
+    {"name":"Shaders","order":5,"path":"folders/Shaders.yy",},
+    {"name":"Sons","order":2,"path":"folders/Sons.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"obj_main","order":1,"path":"objects/obj_main/obj_main.yy",},
+    {"name":"spr_button","order":1,"path":"sprites/spr_button/spr_button.yy",},
+  ],
+}
